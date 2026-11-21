@@ -2,3 +2,4 @@
 echo " Hello from master branch "
 echo " hello from dev1 branch "
 
+ hello from master 
